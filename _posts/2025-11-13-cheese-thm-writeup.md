@@ -81,6 +81,9 @@ python3 -c 'import pty;pty.spawn("/bin/bash")'
 ```bash
 stty raw -echo;fg
 ```
+```bash
+reset
+```
 Press `Ctrl + c` when you get hit with the `Terminal type?` and type:
 ```bash
 export TERM=xterm
