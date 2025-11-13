@@ -2,7 +2,7 @@
 layout: post
 title: "Cheese Tryhackme (easy)-Writeup"
 date: 2025-11-13 2:00:00 +0000
-author: Kingston Kwabena Anab
+author: "Kingston Kwabena Anab"
 categories: [CTF, Writeup]
 tags: [tryhackme]
 ---
